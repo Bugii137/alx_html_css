@@ -2,8 +2,6 @@
 
 Welcome to the **Headphones Website** project — a responsive, fully styled webpage built using HTML and CSS based on a provided Figma design. This project was developed as part of the **ALX Software Engineering program** to reinforce advanced frontend development skills, including layout structuring, styling, and responsiveness.
 
- HEAD
-
 ## 📁 Project Structure
 
 ## 🎨 Design Reference
@@ -58,4 +56,3 @@ Make sure the following fonts are installed locally or linked properly in your p
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bugii137/alx_html_css.git
- a491a29 (Update README.md)
